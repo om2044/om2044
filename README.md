@@ -1,65 +1,105 @@
 <div align="center">
 
-# Omar Ait Bouhmad
+<h1>Hi, I'm Omar Ait Bouhmad 👋</h1>
 
-### Data Engineering · Machine Learning · AI Systems
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&height=42&lines=Data+Engineering+%7C+Machine+Learning+%7C+AI;Building+end-to-end+data+systems;From+data+pipelines+to+intelligent+applications" alt="Animated introduction" />
+</a>
 
-**I build end-to-end data systems — from raw data and scalable pipelines to intelligent models and useful applications.**
+<p><strong>Engineering student in Data Systems, Big Data & AI</strong> · ENSA Agadir, Morocco</p>
 
-Based in Morocco · Engineering student in Data Systems, Big Data & AI at ENSA Agadir
+<p>I design and build systems that transform raw data into useful, reliable applications.</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20project-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om2044/omar-portfolio)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Explore%20demos-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/om440)
-[![Repositories](https://img.shields.io/badge/GitHub-Explore%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om2044?tab=repositories)
+<a href="https://github.com/om2044/omar-portfolio"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a>
+<a href="https://huggingface.co/om440"><img src="https://img.shields.io/badge/Hugging%20Face-181717?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
+<a href="https://github.com/om2044?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 </div>
 
 ---
 
-### About me
+<table>
+<tr>
+<td valign="top" width="60%">
 
-I enjoy solving problems where **data engineering, machine learning, and software development meet**. My focus is on building complete systems: collecting and transforming data, developing reliable models, and delivering results through practical applications.
+<h2>About Me</h2>
 
-- **Data platforms:** batch ingestion, ETL/ELT, distributed processing, data lakes, and analytics.
-- **Machine learning:** feature engineering, model evaluation, computer vision, and predictive systems.
-- **Engineering mindset:** reproducibility, clear architecture, and taking ideas beyond notebooks.
+<p>I'm an engineering student focused on <b>Data Engineering, Machine Learning, and applied AI</b>. I enjoy the entire development journey: acquiring and processing data, designing pipelines, evaluating models, and turning experiments into usable software.</p>
 
-### Featured work
+<ul>
+<li>🔧 <b>Build:</b> data pipelines, analytics platforms and ML-powered applications</li>
+<li>🧠 <b>Explore:</b> distributed systems, model evaluation and production-oriented AI</li>
+<li>🎯 <b>Focus:</b> complete, reproducible solutions rather than isolated notebooks</li>
+</ul>
 
-| Project | Engineering highlights | Technologies |
-| :--- | :--- | :--- |
-| **ECODRIVE-AI** · Developed during an internship at Capgemini Engineering | Built a vehicle fuel-consumption and eco-driving workflow using **8.1M+ driving records**, a physics-based simulation, ML benchmarking, and actionable recommendations. | Python · MATLAB/Simulink · ML |
-| [**Tomato Grading Platform**](https://github.com/om2044/tomato-grading) · [Live demo](https://huggingface.co/spaces/om440/tomato-grading-app) | Developed a computer vision-driven quality grading application with a web interface and API. | TensorFlow · OpenCV · FastAPI · React |
-| [**Olist Business Intelligence**](https://github.com/om2044/Olist-BI-Solution-ETL-SSIS-visualisation-) | Designed a **galaxy-schema data warehouse** and automated ETL flows for e-commerce analytics. | SQL Server · SSIS · Python |
-| **NYC Taxi Data Platform** · *In progress* | Building a batch-oriented data platform with object storage, distributed processing, and recoverable ingestion workflows. | Python · Spark · Docker · Data Lake |
+</td>
+<td valign="middle" width="40%">
 
-### Technologies I work with
+<h3>What I work across</h3>
 
-**Data & Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square)
+<pre>Raw Data
+    ↓
+Ingestion & ETL
+    ↓
+Storage & Processing
+    ↓
+Machine Learning
+    ↓
+APIs & Applications</pre>
 
-**Machine Learning & AI**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+</td>
+</tr>
+</table>
 
-**Software & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
+<h2 align="center">⚙️ Technologies & Tools</h2>
 
 <div align="center">
 
-**Turning data into systems. Turning models into value.**
+<b>Data Engineering & Analytics</b><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="38" alt="Apache Spark" title="Apache Spark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="38" alt="Apache Airflow" title="Apache Airflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="SQL Server" title="SQL Server" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="38" alt="Pandas" title="Pandas" />
 
-<sub>Open to final-year internship opportunities (2027) in Data Engineering, ML Engineering & Applied AI.</sub>
+<br/><br/><b>Machine Learning & AI</b><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="scikit-learn" title="scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="38" alt="OpenCV" title="OpenCV" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="38" alt="MATLAB" title="MATLAB" />
+
+<br/><br/><b>Software & Tools</b><br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" title="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="38" alt="React" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="38" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="38" alt="Linux" title="Linux" />
+
+</div>
+
+---
+
+<h2 align="center">🚀 Selected Projects</h2>
+
+| Project | What I built | Stack |
+| :-- | :-- | :-- |
+| **ECODRIVE-AI** | Fuel-consumption modelling and eco-driving recommendations using **8.1M+ driving records**, physics-based simulation and ML benchmarking. | MATLAB / Simulink · Python · Machine Learning |
+| [**Tomato Quality Grading**](https://github.com/om2044/tomato-grading) · [Demo](https://huggingface.co/spaces/om440/tomato-grading-app) | Computer-vision quality grading integrated with a web application and API. | TensorFlow · OpenCV · FastAPI · React |
+| [**Olist BI Platform**](https://github.com/om2044/Olist-BI-Solution-ETL-SSIS-visualisation-) | Galaxy-schema data warehouse and an ETL pipeline for e-commerce analysis. | SQL Server · SSIS · Python |
+| **NYC Taxi Big Data Platform** *(in progress)* | Batch ingestion and distributed processing on a data-lake architecture. | Spark · Docker · Object Storage |
+
+<div align="center">
+
+---
+
+<h3>Let's Connect</h3>
+<p>Exploring Data Engineering, ML Engineering, and AI Engineering opportunities for my 2027 final-year project.</p>
+
+<a href="https://huggingface.co/om440"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="https://github.com/om2044/omar-portfolio"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=om2044&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 
 </div>
